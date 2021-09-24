@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"edu.ntnu.idatx1002"}];updateSearchResults();

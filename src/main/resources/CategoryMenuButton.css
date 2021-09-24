@@ -1,0 +1,17 @@
+.menu-button{
+    -fx-background-color: white;
+    -fx-border: none;
+    -fx-color: white;
+    -fx-padding: 5px 20px;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 16px;
+    -fx-text-fill: white;
+    -fx-pref-height: 40px;
+    -fx-pref-width: 217px;
+}
+
+.menu-button:hover, .menu-item:hover {
+    -fx-background-color: #329ACA;
+}

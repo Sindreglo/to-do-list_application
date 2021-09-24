@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"edu.ntnu.idatx1002","l":"edu.ntnu.idatx1002"},{"m":"edu.ntnu.idatx1002","l":"edu.ntnu.idatx1002.priority"},{"m":"edu.ntnu.idatx1002","l":"edu.ntnu.idatx1002.status"}];updateSearchResults();
